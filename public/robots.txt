@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cunha-ricardo.github.io/Cunha-Ricardo-github.io-Portifolio/sitemap.xml

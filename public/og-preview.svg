@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07101d"/>
+      <stop offset="0.52" stop-color="#0d1928"/>
+      <stop offset="1" stop-color="#13243a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#65e4c3"/>
+      <stop offset="1" stop-color="#7bb7ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <path d="M0 0h1200v630H0z" fill="none" stroke="rgba(255,255,255,.08)" stroke-width="2"/>
+  <g opacity=".26">
+    <path d="M0 120h1200M0 240h1200M0 360h1200M0 480h1200M160 0v630M320 0v630M480 0v630M640 0v630M800 0v630M960 0v630" stroke="#ffffff" stroke-width="1"/>
+  </g>
+  <circle cx="930" cy="190" r="164" fill="none" stroke="#65e4c3" stroke-opacity=".42" stroke-width="2"/>
+  <circle cx="930" cy="190" r="96" fill="none" stroke="#7bb7ff" stroke-opacity=".38" stroke-width="2"/>
+  <circle cx="930" cy="190" r="38" fill="url(#accent)"/>
+  <text x="88" y="160" fill="#65e4c3" font-family="JetBrains Mono, Consolas, monospace" font-size="28" font-weight="700">SOFTWARE DEVELOPER</text>
+  <text x="86" y="290" fill="#eef6ff" font-family="Inter, Arial, sans-serif" font-size="92" font-weight="800">Ricardo Cunha</text>
+  <text x="92" y="372" fill="#9ff3df" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="700">Backend, APIs, Cloud &amp; Scalable Systems</text>
+  <text x="92" y="462" fill="#9caec4" font-family="Inter, Arial, sans-serif" font-size="30">Node.js | Python | AWS | React | Automation | AI APIs</text>
+  <rect x="90" y="512" width="308" height="58" rx="8" fill="url(#accent)"/>
+  <text x="122" y="550" fill="#07101d" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800">github.com/Cunha-Ricardo</text>
+</svg>
