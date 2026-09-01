@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/Cunha-Ricardo-github.io-Portifolio/",
+  base: "/portfolio/",
   build: {
     sourcemap: false,
     cssMinify: true,

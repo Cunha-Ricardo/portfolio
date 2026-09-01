@@ -72,7 +72,7 @@ This repository is configured for GitHub Pages using `.github/workflows/deploy.y
 The Vite base path is configured as:
 
 ```ts
-base: "/Cunha-Ricardo-github.io-Portifolio/"
+base: "/portfolio/"
 ```
 
 That keeps assets working when the site is served from the repository path on GitHub Pages.

@@ -18,7 +18,7 @@ export const profile = {
   links: {
     github: "https://github.com/Cunha-Ricardo",
     linkedin: "https://www.linkedin.com/in/ricardo-cunha-a4aa9b216/",
-    cv: "/Cunha-Ricardo-github.io-Portifolio/Ricardo-Dantas-Cunha-CV.pdf"
+    cv: "/portfolio/Ricardo-Dantas-Cunha-CV.pdf"
   }
 };
 
