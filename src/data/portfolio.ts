@@ -17,7 +17,7 @@ export const profile = {
   email: "ricardodc@hotmail.com",
   links: {
     github: "https://github.com/Cunha-Ricardo",
-    linkedin: "https://www.linkedin.com/in/ricardo-dantas-cunha-a4aa9b216/",
+    linkedin: "https://www.linkedin.com/in/ricardo-cunha-a4aa9b216/",
     cv: "/Cunha-Ricardo-github.io-Portifolio/Ricardo-Dantas-Cunha-CV.pdf"
   }
 };
